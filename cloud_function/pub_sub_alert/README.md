@@ -1,1 +1,1 @@
-Create pub/sub to send alert notifications and use this cloud function script to route the alert to VictorOps
+Create pub/sub to and use it as a notification channel. Then use this cloud function script to route the alert to VictorOps.
